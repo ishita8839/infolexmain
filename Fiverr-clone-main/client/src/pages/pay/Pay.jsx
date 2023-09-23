@@ -7,7 +7,7 @@ import requests from "../../libs/request";
 import CheckoutForm from "../../components/PayContents/CheckoutForm/CheckoutForm";
 
 const stripePromise = loadStripe(
-  "pk_test_51LIEZEEgKFzxI7hMskyqQ92QcR3lkudfQogZ0KEup9o1bwrrGWLV41YGnM47MaM3fZwM8t7ELt4Evd5JOI5CCCv300hzK3oQrb"
+  "sk_test_51NtODDSBCZeEksHtCkHkZ44HuWyD3PqdmNub1LBgiYBHbc8CtcH2Q4LFUdluFM86eywf8LRmtYU5kIYCJWGAGY0300pdXPamAG"
 );
 
 const Pay = () => {

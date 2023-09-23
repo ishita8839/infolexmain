@@ -5,7 +5,6 @@ node_modules/
 build/
 
 # Ignore .env files
-.env*
 
 # Ignore debugging files
 .vscode/
